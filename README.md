@@ -1,3 +1,3 @@
-# Good_morning_sir
+# Pibby
 
 This is my first shaby python program that greets the user at the time event they use this program on!!! 
